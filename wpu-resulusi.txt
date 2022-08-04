@@ -1,4 +1,5 @@
 WPU Resulusi
  - Konsisten untuk belajar Pemograman (PHP)
  - Konsisten mengikuti pelatihan
- - Tetap konsisten &&
+ - Belajar CSS
+ - Belajar HTML
