@@ -3,3 +3,4 @@ WPU Resulusi
  - Konsisten mengikuti pelatihan
  - Belajar CSS
  - Belajar HTML
+ - Belajar GitHub
