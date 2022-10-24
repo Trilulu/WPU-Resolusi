@@ -4,3 +4,4 @@ WPU Resulusi
  - Belajar CSS
  - Belajar HTML
  - Belajar GitHub
+ - Belajar JavaScript
